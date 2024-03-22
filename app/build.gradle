@@ -11,8 +11,8 @@ android {
         applicationId "de.u3kn0wn.forwarding"
         minSdk 11
         targetSdk 34
-        versionCode 10
-        versionName '1.0'
+        versionCode 20
+        versionName '2.0'
         resConfigs 'en', 'de'
         setProperty('archivesBaseName', 'Plex_Forwarding_' + versionName)
     }
